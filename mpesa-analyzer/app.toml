@@ -1,0 +1,3 @@
+name = "mpesa-analyzer"
+version = "0.1.0"
+desc = "Analyze M-Pesa PDF statements"
